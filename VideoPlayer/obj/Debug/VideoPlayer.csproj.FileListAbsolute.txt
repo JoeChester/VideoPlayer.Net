@@ -1,0 +1,14 @@
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.g.cs
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.baml
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+c:\users\jonas\documents\visual studio 2015\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb

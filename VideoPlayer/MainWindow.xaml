@@ -1,0 +1,20 @@
+﻿<Window x:Class="VideoPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VideoPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="375" Width="525">
+    <StackPanel>
+        <Border Background="Gray">
+            <MediaElement x:Name="mediaElement"  LoadedBehavior="Manual" UnloadedBehavior="Stop" Height="300"/>
+        </Border>
+        <StackPanel Orientation="Horizontal">
+            <Button Margin="5,5,5,0" Padding="5,5,5,5" Click="OnOpen">Open</Button>
+            <Button Margin="5,5,2,0" Padding="5,5,5,5" Click="OnPlay">Play</Button>
+            <Button Margin="0,5,5,0" Padding="5,5,5,5" Click="OnPause">Pause</Button>
+            <Button Margin="0,5,5,0" Padding="5,5,5,5" Click="OnStop">Stop</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>
